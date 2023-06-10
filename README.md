@@ -1,16 +1,23 @@
-### Hi there 👋
+# Jaspreet Singh - Full Stack Developer
 
-<!--
-**jaspreet-singh-96/jaspreet-singh-96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I am a Full Stack Developer with 3+ years of experience in creating and maintaining high-quality web applications. I have a passion for solving complex problems and delivering innovative solutions to meet the needs of my clients.
 
-Here are some ideas to get you started:
+## Technical Skills
+- Design: Figma, Adobe Photoshop, Adobe Illustrator
+- Front-end: React, Angular, HTML, CSS, JavaScript
+- Back-end: Node.js, Express, SpringBoot, PHP
+- RESTful API development
+- Mobile: React Native, PWA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+MCA from Punjabi University, Patiala
+
+
+## Contact
+Feel free to reach out to me via email at jsprtmnn@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/jaspreet-singh-sf)/[GitHub](https://github.com/jaspreet-singh-96). I'm always open to discussing potential opportunities.
+
+
+<!---
+mann1996/mann1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->

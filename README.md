@@ -14,7 +14,7 @@ MCA from Punjabi University, Patiala
 
 
 ## Contact
-Feel free to reach out to me via email at jsprtmnn@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/jaspreet-singh-sf)/[GitHub](https://github.com/jaspreet-singh-96). I'm always open to discussing potential opportunities.
+Feel free to reach out to me via email at jsprtmnn@gmail.com or connect with me on [GitHub](https://github.com/jaspreet-singh-96). I'm always open to discussing potential opportunities.
 
 
 <!---
